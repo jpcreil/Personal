@@ -1,0 +1,6 @@
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+yfinance>=0.2.54
+jupyter>=1.0
+ollama>=0.3
